@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ExternalLink, Github } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { cn, getImagePath } from "@/lib/utils";
 
 interface Project {
   id: string;
@@ -59,7 +59,7 @@ export function Card({ item, type }: CardProps) {
       {/* Image */}
       <div className="relative aspect-video bg-muted overflow-hidden rounded-t-xl"> {/* 👈 Rounded top corners */}
         <img
-          src={item.image}
+          src={getImagePath(item.image)}
           alt={item.title}
           loading="lazy"
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"

@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Github, Download, Mail, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { getImagePath } from "@/lib/utils";
 
 export function Hero() {
   return (
@@ -27,7 +28,7 @@ export function Hero() {
               <div className="w-full h-full rounded-full bg-muted flex items-center justify-center overflow-hidden">
                 <div className="w-full h-full rounded-full overflow-hidden">
                   <img 
-                    src="/use.jpg" 
+                    src={getImagePath("/use.jpg")} 
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
