@@ -1,12 +1,12 @@
 {
   "name": "vite_react_shadcn_ts",
-  "homepage": "https://dgabey.github.io/dinindu-sec-portfolio/",
+  "homepage": "https://dgabey.github.io/portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/generate-404.js",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview",
