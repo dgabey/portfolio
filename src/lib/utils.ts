@@ -11,10 +11,12 @@ export function cn(...inputs: ClassValue[]) {
  * @returns Path prefixed with base URL (e.g., "/portfolio/use.jpg" in production)
  */
 export function getImagePath(path: string): string {
-  // Remove leading slash if present to avoid double slashes
-  const cleanPath = path.startsWith("/") ? path.slice(1) : path;
   // Get base URL from Vite (will be "/portfolio/" in production, "/" in dev)
-  const baseUrl = import.meta.env.BASE_URL;
-  // Ensure base URL ends with / and path doesn't start with /
-  return `${baseUrl}${cleanPath}`;
+  const baseUrl = import.meta.env.BASE_URL || "/";
+  // Ensure base URL ends with /
+  const normalizedBase = baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`;
+  // Remove leading slash from path if present
+  const cleanPath = path.startsWith("/") ? path.slice(1) : path;
+  // Combine base URL and path
+  return `${normalizedBase}${cleanPath}`;
 }
