@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "AI-Powered Phishing Detector",
+    "image": "/placeholder_01.png",
+    "description": "AI-powered phishing detection system using MachineLearning & Natural Language Processing",
+    "tech": ["Python", "ML", "NLP"],
+    "github": "https://github.com/dininduabey/AI-Phishing-Detector.git",
+    "demo": ""
+  },
+  {
+    "id": "2",
+    "title": "Cowrie Honeypot with NGrok",
+    "image": "/placeholder_02.png",
+    "description": "This project deploys the Cowrie SSH honeypot into a VirtualBox VM, using Ubuntu, in order to receive real-life brute-force attack attempts on external IP addresses.",
+    "tech": ["Python", "ELK", "Docker"],
+    "github": "https://github.com/dininduabey/cowrie-Honeypot-with-ngrok.git",
+    "demo": ""
+  },
+  {
+    "id": "3",
+    "title": "Network Intrusion Detection System Lab",
+    "image": "/placeholder_03.png",
+    "description": "A practical Ubuntu 20.04 lab that deploys Suricata, Zeek and Filebeat to give students and blue-teamers a live, GUI-based sandbox for learning network-security monitoring.",
+    "tech": ["Zeek", "Suricata", "Filebeat", "Kibana"],
+    "github": "https://github.com/dininduabey/NIDS-lab.git",
+    "demo": "https://example.com"
+  },
+  {
+    "id": "4",
+    "title": "Password Strength Checker",
+    "image": "/placeholder_04.png",
+    "description": "A sleek, user-friendly Python application built with Tkinter that evaluates password strength using real-time analysis and cryptographic standards.",
+    "tech": ["Python", "Tkinter", "Cryptography"],
+    "github": "https://github.com/dininduabey/updated-Password-strength-Checker-App.git",
+    "demo": ""
+  },
+  {
+    "id": "5",
+    "title": "Python Network Packet Sniffer",
+    "image": "/placeholder_05.png",
+    "description": "Automated AWS security configuration auditor. Checks for misconfigurations and compliance violations.",
+    "tech": ["Python"],
+    "github": "https://github.com/dininduabey/python-network-packet-sniffer.git",
+    "demo": ""
+  },
+  {
+    "id": "6",
+    "title": "Electronic Voting System using Blockchain",
+    "image": "/placeholder_06.png",
+    "description": "An Electronic voting system using Blockchain for my university final year project.",
+    "tech": ["Python", "Solidity", "Node.js"],
+    "github": "https://github.com/dininduabey/Electronic_voting_system_using_blockchain.git",
+    "demo": ""
+  }
+]

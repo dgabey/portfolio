@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "title": "Python for Beginners",
+    "issuer": "University of Moratuwa",
+    "image": "/ec001.jpg",
+    "date": "2023",
+    "link": "https://www.linkedin.com/posts/dinindu-abeysuriya-82409825b_pythoncertified-careergoals-activity-7119920676005695488-t3tS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_oA5wBfc7q2NivcnHSXX14Jg8dVoslYpM"
+  },
+  {
+    "id": "2",
+    "title": "Python Programming",
+    "issuer": "University of Moratuwa",
+    "image": "/ec002.jpg",
+    "date": "2023",
+    "link": "https://www.linkedin.com/posts/dinindu-abeysuriya-82409825b_pythoncertified-careergoals-activity-7119920676005695488-t3tS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_oA5wBfc7q2NivcnHSXX14Jg8dVoslYpM"
+  },
+  {
+    "id": "3",
+    "title": "Web Design for Beginners",
+    "issuer": "University of Moratuwa",
+    "image": "/ec003.jpg",
+    "date": "2023",
+    "link": "https://www.linkedin.com/posts/dinindu-abeysuriya-82409825b_pythoncertified-careergoals-activity-7119920676005695488-t3tS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_oA5wBfc7q2NivcnHSXX14Jg8dVoslYpM"
+  },
+  {
+    "id": "4",
+    "title": "Introduction to Cyber Attacks",
+    "issuer": "NYU",
+    "image": "/ec004.jpg",
+    "date": "2024",
+    "link": "https://rb.gy/xj21dl"
+  },
+  {
+    "id": "5",
+    "title": "Cyber Attack Countermeasures",
+    "issuer": "NYU",
+    "image": "/ec005.jpg",
+    "date": "2024",
+    "link": "https://rb.gy/69hu8j"
+  },
+  {
+    "id": "6",
+    "title": "Real-Time Cyber Threat Detection and Mitigation",
+    "issuer": "NYU",
+    "image": "/ec006.jpg",
+    "date": "2024",
+    "link": "https://rb.gy/7pyios"
+  },
+  {
+    "id": "7",
+    "title": "Enterprise and Infrastructure Security",
+    "issuer": "NYU",
+    "image": "/ec007.jpg",
+    "date": "2024",
+    "link": "https://rb.gy/y3ffou"
+  },
+  {
+    "id": "8",
+    "title": "Introduction to Cyber Security",
+    "issuer": "NYU",
+    "image": "/ec008.jpg",
+    "date": "2024",
+    "link": "https://rb.gy/czqlu6"
+  },
+  {
+    "id": "9",
+    "title": "Foundation Of Cybersecurity",
+    "issuer": "Google",
+    "image": "/ec009.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/3BFoHxb"
+  },
+  {
+    "id": "10",
+    "title": "Manage Security Risks",
+    "issuer": "Google",
+    "image": "/ec010.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/4f1xMyU"
+  },
+  {
+    "id": "11",
+    "title": "Networks and Network Security",
+    "issuer": "Google",
+    "image": "/ec011.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/3ZUTX5w"
+  },
+  {
+    "id": "12",
+    "title": "Linux and SQL",
+    "issuer": "Google",
+    "image": "/ec012.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/3U08xVl"
+  },
+  {
+    "id": "13",
+    "title": "Assets, Threats, and Vulnerabilities",
+    "issuer": "Google",
+    "image": "/ec013.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/3YrVXRG"
+  },
+  {
+    "id": "14",
+    "title": "Detection and Response",
+    "issuer": "Google",
+    "image": "/ec014.jpg",
+    "date": "2024",
+    "link": "https://bit.ly/3Oa4e6P"
+  },
+  {
+    "id": "15",
+    "title": "Automate Cybersecurity Tasks with Python",
+    "issuer": "Google",
+    "image": "/ec015.jpg",
+    "date": "2025",
+    "link": "https://bit.ly/3Cu2nYh"
+  },
+  {
+    "id": "16",
+    "title": "Prepare for Cybersecurity Jobs",
+    "issuer": "Google",
+    "image": "/ec016.jpg",
+    "date": "2025",
+    "link": "http://bit.ly/46HyZdG"
+  }
+]
