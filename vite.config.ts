@@ -4,8 +4,8 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command, mode }) => ({
-  // Use different base path for dev vs build
-  base: command === "build" ? "/portfolio/" : "/",
+  // Use root base path for custom domain
+  base: "/",
 
   server: {
     host: "::",
