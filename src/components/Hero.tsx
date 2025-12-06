@@ -70,8 +70,7 @@ export function Hero() {
             >
               {[
                 "Cybersecurity Undergraduate",
-                "Security Researcher",
-                "Developer",
+                "Security Enthusiast",
               ].map((title) => (
                 <span
                   key={title}
