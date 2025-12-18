@@ -102,8 +102,8 @@ export function Hero() {
               {/* Download CV Button */}
               <Button className="gap-2 glow-sm" asChild>
                 <a
-                  // href="https://drive.google.com/file/d/1a2UKmOIJonsbEtwpGG5Hm-h-QuBNYsSi/view?usp=sharing"
-                  href="https://drive.google.com/uc?export=download&id=1a2UKmOIJonsbEtwpGG5Hm-h-QuBNYsSi"
+                  // href="https://drive.google.com/file/d/1_PBKlx4kAEve8Q1hdLyBpFabi22XzJpm/view?usp=sharing"
+                  href="https://drive.google.com/uc?export=download&id=1_PBKlx4kAEve8Q1hdLyBpFabi22XzJpm"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
